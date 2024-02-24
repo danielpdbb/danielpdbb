@@ -47,7 +47,7 @@
 <br clear="both">
 
 <a target="_blank" align="center">
-  <img align="right" display="absolute" top="900" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+  <img align="right" display="absolute" top="900" height="200" width="300" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
 
@@ -60,6 +60,8 @@
 
 <br clear="both">
 <h3 align="center"> 👨‍💻 I'm also aiming to enhance my skill in networking and last school year I won our networking quiz bee! </h3>
-<img src="networking champ.jpg"  alt="Project Screenshot" width="1000" />
+<div align="center">
+<img src="networking champ.jpg"  alt="Project Screenshot" width="600" />
+</div>
 
 ###
