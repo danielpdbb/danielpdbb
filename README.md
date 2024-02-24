@@ -52,6 +52,7 @@
 
 - ⚡ Fun fact **I think I am funny**
 
+<br clear="both">
 <h3 align="center"> 👨‍💻 I'm also aiming to enhance my skill in networking and last school year I won our networking quiz bee! </h3>
 <img src="networking champ.jpg"  alt="Project Screenshot" width="1000"  />
 
