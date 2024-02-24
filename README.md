@@ -46,6 +46,12 @@
 
 <br clear="both">
 
+- 🔭 I’m currently working on **Everyday Portal**
+
+- 🌱 I’m currently learning **Laravel Framewprk**
+
+- ⚡ Fun fact **I think I am funny**
+
 
 
 ###
