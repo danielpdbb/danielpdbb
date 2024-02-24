@@ -53,6 +53,6 @@
 - ⚡ Fun fact **I think I am funny**
 
 
-<img src="networking champ.jpg"  alt="Project Screenshot" width="600"  />
+<img src="networking champ.jpg"  alt="Project Screenshot" width="1000"  />
 
 ###
