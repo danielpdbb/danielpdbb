@@ -52,9 +52,9 @@
 
 
 
-- 🔭 I’m currently working on **Everyday Portal**
+- 🔭 I’m currently working on **Everyday Portal (E-commerce Website)**
 
-- 🌱 I’m currently learning **Laravel Framework**
+- 🌱 I’m currently learning **Laravel Framework and Cloud Computing**
 
 - ⚡ Fun fact **I think I am funny**
 
