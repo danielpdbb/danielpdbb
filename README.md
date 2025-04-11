@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Patrick Belarmino and I'm a developer from FEU Tech</h2>
+<h2 align="left">Hi 👋! My name is Patrick Belarmino and I'm a developer and a SAP practitioner from FEU Tech</h2>
 
 ###
 
@@ -40,15 +40,12 @@
 </a>
 
 
-
-- 🔭 I’m currently working on **Everyday Portal (E-commerce Website)**
-
-- 🌱 I’m currently learning **Laravel Framework and Cloud Computing**
+- 🌱 I’m currently learning **SAP ABAP, SAP S/4 HANA, and Laravel Framework**
 
 - ⚡ Fun fact **I think I am funny**
 
 <br clear="both">
-<h3 align="center"> 👨‍💻 I'm also aiming to enhance my skill in networking and last school year I won our networking quiz bee! </h3>
+<h3 align="center"> 👨‍💻 I'm also aiming to further enhance my skills in SAP, I was proud to have represented our university in a SAP ERP Simulation Contest, an experience that deepened my passion and commitment to mastering SAP technologies. </h3>
 <div align="center">
 </div>
 
