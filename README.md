@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Patrick Belarmino and I'm a developer and a SAP practitioner from FEU Tech</h2>
+<h2 align="left">Hi 👋! My name is Patrick Belarmino and I'm a developer and a data analyst practitioner from FEU Tech</h2>
 
 ###
 
