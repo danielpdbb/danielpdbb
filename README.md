@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Patrick Belarmino and I'm a developer and a data analyst practitioner from FEU Tech</h2>
+<h2 align="left">Hi 👋! My name is Patrick Belarmino and I'm a Software Developer and Data Analyst</h2>
 
 ###
 
@@ -45,7 +45,7 @@
 - ⚡ Fun fact **I think I am funny**
 
 <br clear="both">
-<h3 align="center"> 👨‍💻 I'm also aiming to further enhance my skills in SAP, I was proud to have represented our university in a SAP ERP Simulation Contest, an experience that deepened my passion and commitment to mastering SAP technologies. </h3>
+<h3 align="center"> 👨‍💻 I am focused on strengthening my skills in software engineering, data engineering, and data analytics, with a growing interest in AI technologies such as large language models (LLMs) and retrieval-augmented generation (RAG). I am motivated by building scalable systems and transforming data into meaningful, intelligent solutions. </h3>
 <div align="center">
 </div>
 
