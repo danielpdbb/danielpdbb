@@ -40,7 +40,7 @@
 </a>
 
 
-- 🌱 I’m currently learning **SAP ABAP, SAP S/4 HANA, and Laravel Framework**
+- 🌱 I’m currently learning toools and concenpts about **Data Engineering, Data Analytics, Software Development**
 
 - ⚡ Fun fact **I think I am funny**
 
